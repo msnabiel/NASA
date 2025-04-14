@@ -1,0 +1,33 @@
+name: Daily NASA APOD Fetcher
+
+on:
+  schedule:
+    - cron: '0 3 * * *'  # Runs daily at 3 AM UTC
+  workflow_dispatch:     # Also allows manual trigger
+
+jobs:
+  fetch-nasa-apod:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Run NASA APOD script
+        run: python nasa_apod.py
+
+      - name: Commit & Push
+        run: |
+          git config --global user.email "you@example.com"
+          git config --global user.name "Your Bot"
+          git add .
+          git commit -m "Add NASA APOD for $(date '+%Y-%m-%d')" || echo "No changes to commit"
+          git push
