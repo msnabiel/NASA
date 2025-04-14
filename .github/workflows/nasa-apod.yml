@@ -1,4 +1,4 @@
-name: Daily NASA APOD Fetcher
+name: NASA APOD Fetcher
 
 on:
   schedule:
@@ -29,7 +29,7 @@ jobs:
       - name: Commit & Push
         run: |
           git config --global user.email "you@example.com"
-          git config --global user.name "Your Bot"
+          git config --global user.name "GitHub Actions Bot"
           git add .
           git commit -m "Add NASA APOD for $(date '+%Y-%m-%d')" || echo "No changes to commit"
-          git push
+          git push https://${{ secrets.GH_TOKEN }}@github.com/${{ github.repository }}.git HEAD:main
