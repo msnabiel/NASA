@@ -25,7 +25,6 @@ jobs:
         run: python nasa_apod.py
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}  # Reference secret here
-
       - name: Commit & Push
         run: |
           git config --global user.email "you@example.com"
