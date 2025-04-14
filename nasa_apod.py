@@ -14,7 +14,6 @@ res = requests.get(URL)
 data = res.json()
 
 date = data['date']
-# title = data['title'].replace("/", "-").replace(" ","-")  # Clean title
 title = re.sub(r'[^\w\s-]', '', data['title'])  # Remove special chars
 title = title.strip().replace(" ", "-")         # Replace spaces with hyphens
 explanation = data['explanation']
@@ -35,13 +34,15 @@ if media_type == 'image':
     with open(f"{folder_name}/image.jpg", 'wb') as f:
         f.write(img_data)
 else:
-    # Video handling
     video_id = re.search(r"v=([a-zA-Z0-9_-]+)", url)
     if video_id:
         video_id = video_id.group(1)
         thumbnail_url = f"https://img.youtube.com/vi/{video_id}/0.jpg"
     with open(f"{folder_name}/video_link.txt", 'w') as f:
         f.write(url)
+
+# === CLEAN EXPLANATION TEXT ===
+quoted_explanation = explanation.replace('\n', '\n> ')
 
 # === FORMAT README CONTENT ===
 readme_content = f"""# {title}
@@ -57,7 +58,7 @@ readme_content = f"""# {title}
 
 ### Explanation
 
-> {explanation.replace('\n', '\n> ')}
+> {quoted_explanation}
 
 ---
 
