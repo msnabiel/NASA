@@ -4,7 +4,9 @@ from datetime import datetime
 import re
 
 # === CONFIG ===
-API_KEY = "DEMO_KEY"  # Replace with your own API key from api.nasa.gov
+API_KEY = os.getenv('NASA_API_KEY')  # Fetch API key from environment variable
+if not API_KEY:
+    raise ValueError("NASA API Key is not set as an environment variable.")
 URL = f"https://api.nasa.gov/planetary/apod?api_key={API_KEY}"
 
 # === FETCH DATA ===
