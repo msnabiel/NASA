@@ -42,28 +42,22 @@ else:
         f.write(url)
 
 # === CLEAN EXPLANATION TEXT ===
+# Move this OUTSIDE the f-string to avoid backslash error
 quoted_explanation = explanation.replace('\n', '\n> ')
 
 # === FORMAT README CONTENT ===
-readme_content = f"""# {title}
-
-**Date:** {formatted_date}  
-**Media Type:** `{media_type}`  
-
-{"![Image](image.jpg)" if media_type == "image" else f"![Video Thumbnail]({thumbnail_url})"}
-
-{"[Watch Video](" + url + ")" if media_type == "video" else ""}
-
----
-
-### Explanation
-
-> {quoted_explanation}
-
----
-
-[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
-"""
+readme_content = (
+    f"# {title}\n\n"
+    f"**Date:** {formatted_date}  \n"
+    f"**Media Type:** `{media_type}`  \n\n"
+    f"{'![Image](image.jpg)' if media_type == 'image' else f'![Video Thumbnail]({thumbnail_url})'}\n\n"
+    f"{'[Watch Video](' + url + ')' if media_type == 'video' else ''}\n\n"
+    "---\n\n"
+    "### Explanation\n\n"
+    f"> {quoted_explanation}\n\n"
+    "---\n\n"
+    "[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)\n"
+)
 
 # === WRITE README ===
 with open(f"{folder_name}/README.md", 'w', encoding='utf-8') as f:
