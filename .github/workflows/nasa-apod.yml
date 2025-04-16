@@ -2,7 +2,7 @@ name: NASA APOD Fetcher
 
 on:
   schedule:
-    - cron: '30 5 * * *'  # Runs daily at 3 AM UTC
+    - cron: '30 5 * * *'  # Runs daily at 5:30 AM UTC (11:00 AM IST)
   
   workflow_dispatch:     # Also allows manual trigger
 
@@ -26,9 +26,10 @@ jobs:
         run: python nasa_apod.py
         env:
           NASA_API_KEY: ${{ secrets.NASA_API_KEY }}  # Reference secret here
+
       - name: Commit & Push
         run: |
-          git config --global user.email "you@example.com"
+          git config --global user.email "msyednabiel@gmail.com"
           git config --global user.name "GitHub Actions Bot"
           git add .
           git commit -m "Add NASA APOD for $(date '+%Y-%m-%d')" || echo "No changes to commit"
