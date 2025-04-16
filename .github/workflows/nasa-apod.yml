@@ -2,7 +2,8 @@ name: NASA APOD Fetcher
 
 on:
   schedule:
-    - cron: '0 3 * * *'  # Runs daily at 3 AM UTC
+    - cron: '30 5 * * *'  # Runs daily at 3 AM UTC
+  
   workflow_dispatch:     # Also allows manual trigger
 
 jobs:
