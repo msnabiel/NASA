@@ -1,0 +1,18 @@
+# Barred-Spiral-Galaxy-NGC-5335
+
+**Date:** 26-04-25  
+**Media Type:** `image`  
+
+![Image](image.jpg)
+
+
+
+---
+
+### Explanation
+
+> This stunning portrait of NGC 5335 was captured by the Hubble Space Telescope.  Some 170,000 light-years across and over 200 million light-years away toward the constellation Virgo, the magnificent spiral galaxy is seen face-on in Hubble's view. Within the galactic disk, loose streamers of star forming regions lie along the galaxy's flocculent spiral arms. But the most striking feature of NGC 5335 is its prominent central bar. Seen in about 30 percent of galaxies, including our Milky Way, bar structures are understood to channel material inward toward the galactic center, fueling star formation. Of course, distant background galaxies are easy to spot, scattered around the sharp Hubble image. Launched in 1990, Hubble is now celebrating its 35th year exploring the cosmos from orbit around planet Earth.
+
+---
+
+[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
