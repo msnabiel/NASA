@@ -1,0 +1,18 @@
+# M13-The-Great-Globular-Cluster-in-Hercules
+
+**Date:** 14-08-25  
+**Media Type:** `image`  
+
+![Image](image.jpg)
+
+
+
+---
+
+### Explanation
+
+> In 1716, English astronomer Edmond Halley noted, "This is but a little Patch, but it shews itself to the naked Eye, when the Sky is serene and the Moon absent." Of course, M13 is now less modestly recognized as the Great Globular Cluster in Hercules, one of the brightest globular star clusters in the northern sky. Sharp telescopic views like this one reveal the spectacular cluster's hundreds of thousands of stars. At a distance of 25,000 light-years, the cluster stars crowd into a region 150 light-years in diameter. Approaching the cluster core, upwards of 100 stars could be contained in a cube just 3 light-years on a side. For comparison with our neighborhood of the Milky Way, the closest star to the Sun is over 4 light-years away. Early telescopic observers of the great globular cluster also noted a curious convergence of three dark lanes with a spacing of about 120 degrees, seen here just below the cluster center.  Known as the propeller in M13, the shape is likely a chance optical effect of the distribution of stars viewed from our perspective against the dense cluster core.
+
+---
+
+[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
