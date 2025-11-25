@@ -1,0 +1,18 @@
+# Comet-Lemmon-and-the-Milky-Way
+
+**Date:** 25-11-25  
+**Media Type:** `image`  
+
+![Image](image.jpg)
+
+
+
+---
+
+### Explanation
+
+> What did Comet Lemmon look like when it was at its best? One example is pictured here, featuring three celestial spectacles all at different distances. The closest spectacle is the snowcapped Meili Mountains, part of the Himalayas in China.  The middle marvel is Comet Lemmon near its picturesque best early this month, showing not only a white dust tail trailing off to the right but its blue solar wind-distorted ion tail trailing off to the left.  Far in the distance on the left is the magnificent central plane of our Milky Way Galaxy, featuring dark dust, red nebula, and including billions of Sun-like stars. Comet C/2025 A6 (Lemmon) is already fading as it heads back into the outer Solar System, while the Himalayan mountains will gradually erode over the next billion years. The Milky Way Galaxy, though, will live on -- forming new mountains and comets -- for many billions of years into the future.
+
+---
+
+[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
