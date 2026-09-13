@@ -1,0 +1,18 @@
+# Comet-NEOWISE-Rising-over-the-Adriatic-Sea
+
+**Date:** 13-09-26  
+**Media Type:** `video`  
+
+![Video Thumbnail](None)
+
+[Watch Video](https://apod.nasa.gov/apod/image/2609/NoctilucentNeowise_Girotti.mp4)
+
+---
+
+### Explanation
+
+> This sight was worth getting out of bed early.  Just over four years ago, Comet C/2020 F3 (NEOWISE) rose before dawn to the delight of northern sky enthusiasts awake that early. Up before sunrise on July 8th, the featured photographer was able to capture in dramatic fashion one of the few comets visible to the unaided eye this century, an inner-Solar System intruder that has become known as the Great Comet of 2020.  The resulting video detailed Comet NEOWISE from Italy rising over the Adriatic Sea. The featured time-lapse video combines over 240 images taken over 30 minutes.  The comet was seen rising through a foreground of bright and undulating noctilucent clouds, and before a background of distant stars.  Comet NEOWISE remained unexpectedly bright for over a month, with its ion and dust tails found to emanate from a nucleus spanning about five kilometers across.   APOD's main NASA site is moving: From apod.nasa.gov to science.nasa.gov/apod
+
+---
+
+[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
