@@ -1,0 +1,18 @@
+# NASA-Science
+
+**Date:** 04-10-26  
+**Media Type:** `image`  
+
+![Image](image.jpg)
+
+
+
+---
+
+### Explanation
+
+> Yes, but can your rainbow do this? After the remnants of Hurricane Florence passed over the Jersey Shore, New Jersey, USA in 2018, the Sun came out in one direction but something quite unusual appeared in the opposite direction: a hall of rainbows. Over the course of the next half hour, to the delight of the photographer and his daughter, vibrant supernumerary rainbows faded in and out, with at least five captured in this featured single shot. Supernumerary rainbows only form when falling water droplets are all nearly the same size and typically less than a millimeter across. Then, sunlight will not only reflect from inside the raindrops, but interfere, a wave phenomenon similar to ripples on a pond when a stone is thrown in. In fact, supernumerary rainbows can only be explained with waves, and their noted existence in the early 1800s was considered early evidence of light's wave nature.Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)Tomorrow's picture: open space						
+
+---
+
+[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
