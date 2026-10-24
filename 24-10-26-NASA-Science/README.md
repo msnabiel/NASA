@@ -1,0 +1,18 @@
+# NASA-Science
+
+**Date:** 24-10-26  
+**Media Type:** `image`  
+
+![Image](image.jpg)
+
+
+
+---
+
+### Explanation
+
+> This Rosetta spacecraft selfie was snapped on October 7th, 2014. At the time the comet-chasing spacecraft was about 472 million kilometers from planet Earth, but only 16 kilometers from the surface of comet 67P/Churyumov-Gerasimenko. Looming beyond the spacecraft near the top of the frame, dust and gas stream away from the comet's curious double-lobed nucleus. Bright sunlight glints off one of Rosetta's 14 meter long solar arrays. In fact, two exposures, one short and one long, were combined to record the dramatic high contrast scene using the CIVA camera system on Rosetta's still-attached Philae lander. Its chosen primary landing site was on the visible hemisphere of the smaller lobe of the nucleus. This was the last image from Philae's camera before the lander separated from Rosetta on November 12. Shortly after separation Philae took another image looking back toward the orbiter and began its descent to the nucleus of the comet.Tomorrow's picture: dark matters
+
+---
+
+[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
