@@ -1,0 +1,18 @@
+# NASA-Science
+
+**Date:** 01-11-26  
+**Media Type:** `image`  
+
+![Image](image.jpg)
+
+
+
+---
+
+### Explanation
+
+> What color is the Moon? It depends on the night -- and the time. Outside of the Earth's atmosphere, the dark Moon, which shines by reflected sunlight, appears a magnificently brown-tinged gray. The featured image highlights a collection of apparent colors of the full moon on Earth, documented by one astrophotographer over 10 years from different locations across Italy. A red- or yellow-colored moon usually indicates a moon seen near the horizon. There, some of the blue light has been scattered away by a long path through the Earth's atmosphere, sometimes laden with fine dust. A blue-colored moon is more rare and can indicate an atmosphere carrying larger dust particles. What created the purple moon is unclear -- it may be a combination of several effects. The last image captures the total lunar eclipse of 2018 July -- where the moon, in Earth's shadow, appeared a faint red -- due to light refracted through air around the Earth. Have you ever seen an unusually colorful Moon?Tomorrow's picture: open space
+
+---
+
+[View this on NASA APOD](https://apod.nasa.gov/apod/astropix.html)
